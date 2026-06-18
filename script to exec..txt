@@ -1,3 +1,0 @@
-script to exec.
-
-python -m PyInstaller --onefile <scriptname>.py
