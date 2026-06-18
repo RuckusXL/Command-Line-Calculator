@@ -3,6 +3,7 @@
 A feature-rich, interactive command-line calculator built in Python.
 Originally a simple arithmetic tool, this project has evolved into a modular calculator system with expanded mathematical functions, improved logic structure, and enhanced user experience using colored terminal output.
 
+
 🚀 Features
 
 This calculator supports more than basic arithmetic. It includes:
@@ -12,6 +13,7 @@ Addition
 Subtraction
 Multiplication
 Division (with zero-check protection)
+
 
 📐 Geometry Functions
 Area of a triangle
@@ -31,6 +33,7 @@ Input validation with error handling
 Loop-based structure for continuous use without restarting program
 Beginner-friendly prompts and responses
 
+
 🧠 Project Evolution
 
 This project started as a basic calculator built for learning Python fundamentals. Over time, it evolved into a more structured and interactive tool as new concepts were learned, including:
@@ -41,7 +44,9 @@ Loops and program flow control
 User interface improvements in the terminal
 Real-world math applications
 
+
 The goal was not just to build a calculator, but to build a learning system for Python development fundamentals.
+
 
 🛠 Tech Stack
 Python 3.x
@@ -50,6 +55,7 @@ Colorama (for terminal styling)
 Install dependencies:
 
 pip install colorama
+
 
 ▶️ How to Run
 
@@ -65,11 +71,14 @@ Run the script:
 
 python Calculator.py
 
+
 📂 Project Structure
 Command-Line-Calculator/
 │
 ├── Calculator.py        # Main program
 ├── README.md            # Project documentation
+
+
 📌 Future Improvements
 
 Planned enhancements include:
